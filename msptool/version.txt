@@ -1,1 +1,1 @@
-0 (We regret to inform you that MSPTool/MT2 has reached its end of life and has been officially discontinued. Effective immediately, the tool will no longer be available or supported)
+-1 (We regret to inform you that MSPTool/MT2 has reached its end of life and has been officially discontinued. Effective immediately, the tool will no longer be available or supported)
