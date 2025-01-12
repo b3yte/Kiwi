@@ -1,5 +1,5 @@
 Project End of Life (EOL) Notice
-Effective Date: 07 December 2024
+Effective Date: 12 January 2025
 
 As of the above date, this project is no longer actively maintained and is considered End of Life (EOL). No further updates, bug fixes, or security patches will be provided, and issue tracking has been disabled or will no longer be monitored.
 
