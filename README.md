@@ -20,7 +20,7 @@
 [forks-url]: https://github.com/hzarki/msptool/network/members
 [stars-url]: https://github.com/hzarki/msptool/stargazers
 [issues-url]: https://github.com/hzarki/msptool/issues
-[license-url]: https://github.com/hzarki/msptool/blob/main/LICENSE.txt
+[license-url]: https://github.com/hzarki/msptool/blob/main/LICENSE
 
 
 <br />
