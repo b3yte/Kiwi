@@ -59,7 +59,7 @@
 
 ## About The Project
 
-This repository contains a collection of tools for interacting with moviestarplanet classic. The tools are implemented in .PY and allow users to automate various tasks within the game.
+This repository contains a collection of tools for interacting with moviestarplanet 1. The tools are implemented in .PY and allow users to automate various tasks within the game.
 
 
 ## Getting Started
