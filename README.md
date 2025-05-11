@@ -25,9 +25,6 @@
 Contributions are welcome! Feel free to:
 
 * Open issues for bugs or feature requests
-* Submit pull requests with enhancements or fixes
-
-Please make sure to follow the existing code style and include tests where applicable.
 
 ## 📄 License
 
