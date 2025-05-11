@@ -5,17 +5,14 @@ on:
 
 jobs:
   notify:
+    name: Kiwi Changelogs
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
 
-      - name: Send commit info to Discord
+      - name: Send commit message to Discord
         uses: appleboy/discord-action@v1.2.0
         with:
           webhook_url: ${{ secrets.DISCORD_WEBHOOK_URL }}
-          message: |
-            📄 **New commit** pushed to `${{ github.repository }}`
-            **Author:** ${{ github.actor }}
-            **Message:** ${{ github.event.head_commit.message }}
-            🔗 <${{ github.event.head_commit.url }}>
+          message: '${{ github.event.head_commit.message }}'
