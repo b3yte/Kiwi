@@ -11,13 +11,6 @@
 
 * **Supported OS**: macOS ARM (Apple Silicon) only – M1, M1 Pro/Max, M2, M2 Pro/Max, M3, and M4 devices.
 
-## 🔧 Included Tools
-
-* **Autographer**: Automatically generate autographs to share with friends.
-* **Bot Generator**: Create custom bots to interact within MovieStarPlanet for automated tasks.
-* **Find Old Accounts**: Recover inactive or forgotten MovieStarPlanet accounts.
-* **Attempt Logins**: Automate login attempts for a list of credentials (use responsibly).
-
 
 ## 🤝 Contributing
 
