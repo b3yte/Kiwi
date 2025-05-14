@@ -17,8 +17,7 @@
 * **Bot Generator**: Create custom bots to interact within MovieStarPlanet for automated tasks.
 * **Find Old Accounts**: Recover inactive or forgotten MovieStarPlanet accounts.
 * **Attempt Logins**: Automate login attempts for a list of credentials (use responsibly).
-* **Mag Dupe**: Perform magic duplication for magazine.
-* **cheap dpac**: A payment link for cheap vip generator.
+
 
 ## 🤝 Contributing
 
