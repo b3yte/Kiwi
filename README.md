@@ -5,7 +5,7 @@
 
 ## 🚀 About
 
-**Kiwi** is an all-in-one enhancer for [MovieStarPlanet](https://www.moviestarplanet.com/) that provides a suite of powerful tools to streamline and automate your gameplay experience. Whether you want to generate bots, recover old accounts, or try advanced magdupe, Kiwi has you covered.
+**Kiwi** is an all-in-one enhancer for [MovieStarPlanet](https://www.moviestarplanet.com/) that provides a suite of powerful tools.
 
 ## 🖥️ Compatibility
 
